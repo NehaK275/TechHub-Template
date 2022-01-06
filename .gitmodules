@@ -1,0 +1,9 @@
+[submodule "java/Tech-java"]
+	path = java/Tech-java
+	url = https://github.com/NehaK275/Tech-java.git
+[submodule "python/Tech-python"]
+	path = python/Tech-python
+	url = https://github.com/NehaK275/Tech-python.git
+[submodule "scala/Tech-scala"]
+	path = scala/Tech-scala
+	url = https://github.com/NehaK275/Tech-scala.git
